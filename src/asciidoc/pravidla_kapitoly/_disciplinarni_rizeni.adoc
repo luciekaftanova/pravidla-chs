@@ -12,7 +12,7 @@
 .. [[drs-c,{counter:drsa}]]oficiální diskvalifikace závodníka ze závodu udělením červené karty. 
 . V nejbližší vhodné chvíli po vydání žluté nebo červené karty musí Hlavní rozhodčí:
 .. předložit písemné vyjádření týkající se provinění <<#manazer-tymu,vedoucímu týmu>> soutěžícího (nebo danému soutěžícímu v případě nepřítomnosti vedoucího týmu) a toho, zdali Hlavní rozhodčí hodlá danou záležitost předat k posouzení Disciplinární komisi ČHS.
-.. pokud bude přestupek dále řešen Disciplinární komisí ČHS musí dále bez zbytečného prodlení předat Disciplinární komisi ČHS: kopii tohoto písemného vyjádření společně s detailní zprávou týkající se daného přestupku proti pravidlům, jakýmkoliv důkazním materiálem a jakýmkoliv návrhem dalšího postupu ohledně zvážení případných dalších postihů. 
+.. pokud bude přestupek dále řešen Disciplinární komisí ČHS, musí dále bez zbytečného prodlení předat Disciplinární komisi ČHS: kopii tohoto písemného vyjádření společně s detailní zprávou týkající se daného přestupku proti pravidlům, jakýmkoliv důkazním materiálem a jakýmkoliv návrhem dalšího postupu ohledně zvážení případných dalších postihů. 
 
 . Složení a způsob práce disciplinární komise popisují příslušné dokumenty ČHS – Stanovy ČHS a Disciplinární řád ČHS.
 
@@ -21,7 +21,7 @@
 . Žlutá karta může být v souladu s výše zmíněným článkem <<#disciplinarni-rizeni-uvod>>.<<#dru-2>>.<<#drs-b>> udělena za jakékoliv z následujících porušení pravidel:
 .. za porušení kterýmkoliv členem týmu v soutěžním prostoru:
 ... nesportovní chování relativně malé povahy
-... použití obscénního nebo urážlivého jazyka nebo chování relativně mírné povahy
+... použití obscénního nebo urážlivého vyjadřování nebo chování relativně mírné povahy
 .. vzhledem k pokynům oficiálního činovníka ČHS, za neuposlechnutí takových pokynů jako
 ... nepřiměřené zdržení při návratu do izolace, když k tomu dá Hlavní rozhodčí pokyn;
 ... nepřiměřené zdržení mezi opuštěním přípravné zóny a příchodem do soutěžní zóny, když je k tomu dán pokyn;
