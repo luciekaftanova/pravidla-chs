@@ -18,7 +18,7 @@
 === ZODPOVĚDNOST ČHS
 . Při organizaci národních lezeckých soutěží je role ČHS následující:
 .. Příjem všech přihlášek pro organizaci soutěže schválené ČHS;
-.. Odpovídání na dotazy – jednak obecné povahy a jednak na ty týkající se schválených soutěží;
+.. Zodpovídání dotazů – jednak obecné povahy a jednak na ty týkající se schválených soutěží;
 .. Vydávání veškerých informací týkajících se soutěží schválených ČHS;
 .. Vydávání pravidel, nařízení a oznámení ČHS. K těmto dokumentům mohou být publikovány dodatky, které je třeba číst spolu s těmito dokumenty, přičemž ve spojitosti s původním dokumentem mají dodatky přednost. Každý dodatek musí obsahovat datum uvedení v platnost;
 .. Oficiální vydávání veškerých soutěžních výsledků, umístění v Českém poháru a umístění v Českém rankingu jak dospělých, tak i mládeže, včetně dalších vyhlašovaných průběžných soutěží.
@@ -34,13 +34,13 @@ Oddíly ČHS, organizátoři akcí a osoby spojené s jakoukoliv akcí v kalend�
 . vyžádat si radu a souhlas ČHS, pokud jde o jakékoliv rozhodnutí, které by mohlo být v rozporu s nejlepším zájmem sportu.
 . Jsou odpovědní za:
 .. propagaci a aktivní rozvoj sportu a dodržování pravidel, které jsou pro ně závazná. Zásady Olympijské charty, Lékařského kodexu MOV a ČOV, pravidel a předpisů ČHS a IFSC upravujících sportovní lezení na národních a mezinárodních soutěžích;
-.. chápání a dodržování pravidel a předpisů tohoto sportu a podporování a zajišťování aby všichni členové reprezentující oddíl dodržovali zásady dobrého sportovního chování a fair play;
-.. trvalé a aktivní působení proti užívání drog nebo jiných zakázaných látek všemi členy týmu reprezentující oddíl a dodržování všech pravidel a pokynů v oblasti bezpečnosti a ochrany zdraví a aby bylo zaručeno mimosoutěžní testování, pokud je o to požádáno;
+.. chápání a dodržování pravidel a předpisů tohoto sportu a podporování a zajišťování, aby všichni členové reprezentující oddíl dodržovali zásady dobrého sportovního chování a fair play;
+.. trvalé a aktivní působení proti užívání drog nebo jiných zakázaných látek všemi členy týmu reprezentující oddíl a dodržování všech pravidel a pokynů v oblasti bezpečnosti a ochrany zdraví, aby bylo zaručeno mimosoutěžní testování, pokud je o to požádáno;
 .. zákaz jakýchkoliv metod nebo postupů, které by mohly představovat riziko pro zdraví nebo fyzickou kondici svých členů oddílů;
 .. závazek, že se důrazné postaví proti jakémukoliv pokušení manipulace s pravidly a předpisy ve prospěch členů oddílů;
 .. zajištění, aby se všichni členové reprezentující oddíl chovali ke všem ostatním členům týmu, funkcionářům a ostatním, kteří se podílejí na provozování sportovní činnosti s plným a náležitým respektem po celou dobu, jak v průběhu soutěže, tak v průběhu jakékoli nesoutěžní činnosti.
 
-. Všichni členové týmu, kteří se účastní jakékoliv soutěže, jsou povinni zajistit aby byli plně informováni o všech podrobnostech týkajících se dané soutěže.
+. Všichni členové týmu, kteří se účastní jakékoliv soutěže, jsou povinni zajistit, aby byli plně informováni o všech podrobnostech týkajících se dané soutěže.
 
 . Každý oddíl ČHS je oprávněn přihlásit své členy za následujících podmínek:
 
@@ -72,7 +72,7 @@ Hlavní rozhodčí musí být držitelem národní licence Hlavní rozhodčí Č
 +
 Hlavní rozhodčí je zodpovědný za vydání výsledkové listiny, přijímání protestů a řešení a oznamování jakýchkoliv důležitých změn v programu soutěže.
 +
-Hlavnímu rozhodčímu v jeho výkonu asistují pomocní rozhodčí (traťový rozhodčí, boulderový rozhodčí), navržení pořadatelem závodu a schválení Koordinátorem soutěže. Hlavní rolí pomocných rozhodčí je posuzovat výkony soutěžících na cestách a na boulderech. Pomocní rozhodčí musejí být plně obeznámeni se všemi technickými pravidly a nařízeními platnými pro soutěže ČHS a v rámci svých povinností přijímají pokyny a pracují pod vedením Hlavního rozhodčího. Hlavní rozhodčí je zodpovědný za informování všech pomocných rozhodčích ohledně aplikace pravidel ČHS ještě před začátkem soutěže.
+Hlavnímu rozhodčímu v jeho výkonu asistují pomocní rozhodčí (traťoví rozhodčí, boulderoví rozhodčí), navržení pořadatelem závodu a schválení Koordinátorem soutěže. Hlavní rolí pomocných rozhodčí je posuzovat výkony soutěžících na cestách a na boulderech. Pomocní rozhodčí musejí být plně obeznámeni se všemi technickými pravidly a nařízeními platnými pro soutěže ČHS a v rámci svých povinností přijímají pokyny a pracují pod vedením Hlavního rozhodčího. Hlavní rozhodčí je zodpovědný za informování všech pomocných rozhodčích ohledně aplikace pravidel ČHS ještě před začátkem soutěže.
 +
 ČHS může také jmenovat dodatečné rozhodčí, případně rozhodčího-aspiranta, který prochází mentoringovýcm programem pro zisk licence Hlavního rozhodčího ČHS.
 +
@@ -80,13 +80,13 @@ Hlavní rozhodčí musí předložit ČHS podrobnou zprávu o dané soutěži a 
 +
 .. [[td]]Delegát ČHS
 +
-Delegát ČHS se během konání soutěže věnuje všem organizačním záležitostem, které s ČHS souvisí. V jeho pravomoci je zajistit, aby příslušenství, vybavení a služby, které poskytuje pořadatel (jako registrace soutěžících a ostatních, služby zahrnující bodování a výsledky, zdravotnické, mediální a jiné vybavení) nebo jsou dodávány třetí osobou byly v souladu s regulemi ČHS a plnění probíhalo v souladu s uzavřenými smlouvami. Delegát ČHS je členem odvolací poroty a má právo účastnit se všech porad s pořadateli soutěže. V nepřítomnosti Hlavního rozhodčího a před jeho příchodem na soutěž jedná Delegát ČHS v jeho zastoupení ve věcech organizace závodů v rámci <<#soutezni-prostor,soutěžního prostoru>>. Ve výjimečných případech má Delegát ČHS pravomoc přijmout a aplikovat nouzová opatření, jako je například přizpůsobení soutěžního formátu. Delegát je zodpovědný za vydání startovních listin.
+Delegát ČHS se během konání soutěže věnuje všem organizačním záležitostem, které s ČHS souvisí. V jeho pravomoci je zajistit, aby příslušenství, vybavení a služby, které poskytuje pořadatel (jako registrace soutěžících a ostatních, služby zahrnující bodování a výsledky, zdravotnické, mediální a jiné vybavení) nebo jsou dodávány třetí osobou, byly v souladu s regulemi ČHS, a plnění probíhalo v souladu s uzavřenými smlouvami. Delegát ČHS je členem odvolací poroty a má právo účastnit se všech porad s pořadateli soutěže. V nepřítomnosti Hlavního rozhodčího, a před jeho příchodem na soutěž, jedná Delegát ČHS v jeho zastoupení ve věcech organizace závodů v rámci <<#soutezni-prostor,soutěžního prostoru>>. Ve výjimečných případech má Delegát ČHS pravomoc přijmout a aplikovat nouzová opatření, jako je například přizpůsobení soutěžního formátu. Delegát je zodpovědný za vydání startovních listin.
 +
 Delegát ČHS musí předložit ČHS podrobnou zprávu o dané soutěži.
 +
 U soutěží, kde Delegát ČHS není právě přítomen, přebírá všechna jeho práva a povinnosti Hlavní rozhodčí.
 
-. ČHS potvrzuje na soutěže schválené ČHS ve funkcích následující oficiální soutěžní činitele jmenované pořadatelem:
+. ČHS potvrzuje na soutěže schválené ČHS ve funkcích následující oficiální soutěžní činitele, jmenované pořadatelem:
 
 .. Hlavní stavěč
 +
@@ -104,7 +104,7 @@ Hlavnímu stavěči a Stavěči ČHS během přípravy soutěžních cest pomáh
 +
 .. Obsluha výsledkového servisu
 +
-Zodpovídá za přípravu listin pro registraci závodníků, připravuje startovní a výsledkové listiny. Zveřejňuje elektronické verze startovních a výsledkových listin ve veřejně dostupném prostoru (např. mobilní aplikace). Nahrává finální výsledky na stránky ČHS a předává datový soubor s výsledky po závodu správci rankingu na lezeni@navrat.name. Je schopná se orientovat v technických věcech související s průběžnými výsledky a obsluhou mobilních klientů při vkládání výsledků traťovými rozhodčími. Připravuje ve spolupráci s hlavním rozhodčím a technickým delegátem případné další informace, které je nutné zveřejnit. Má právo vstupovat do všech prostor soutěžního prostoru.
+Zodpovídá za přípravu listin pro registraci závodníků, připravuje startovní a výsledkové listiny. Zveřejňuje elektronické verze startovních a výsledkových listin ve veřejně dostupném prostoru (např. mobilní aplikace). Nahrává finální výsledky na stránky ČHS a předává datový soubor s výsledky po závodu správci rankingu na lezeni@navrat.name. Je schopna se orientovat v technických věcech související s průběžnými výsledky a obsluhou mobilních klientů při vkládání výsledků traťovými rozhodčími. Připravuje ve spolupráci s hlavním rozhodčím a technickým delegátem případné další informace, které je nutné zveřejnit. Má právo vstupovat do všech prostor soutěžního prostoru.
 
 +
 .. Technický ředitel akce
